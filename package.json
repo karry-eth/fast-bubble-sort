@@ -6,6 +6,11 @@
   "scripts": {
     "test": "npm test"
   },
+  "dependencies": {
+    "sort-es": "^1.7.7",
+    "sort-ids": "^3.0.1",
+    "fast-bubble-sort": "^1.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/karry-eth/fast-bubble-sort.git"
